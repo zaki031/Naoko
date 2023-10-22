@@ -8,5 +8,5 @@ import(
 
 
 func ChangeStatus(s *discordgo.Session, event *discordgo.Event) {
-	s.UpdateWatchStatus(5, "Luke Smith")
+	s.UpdateWatchStatus(5, "hmmmmmm")
 }
